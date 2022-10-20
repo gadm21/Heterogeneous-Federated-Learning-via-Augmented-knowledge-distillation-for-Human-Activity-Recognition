@@ -4,7 +4,7 @@
 Official repository for the paper: Heterogeneous Federated Learning via Augmented knowledge distillation for Human Activity Recognition systems. 
 
 <p align="center"> 
-<img src="https://github.com/gadm21/HeleLora/blob/main/assets/images/project_overview.png">
+<img src="https://github.com/gadm21/Heterogeneous-Federated-Learning-via-Augmented-knowledge-distillation-for-Human-Activity-Recognition/blob/main/assets/FL_overview.png">
 </p>
 
 ## This repo three main parts in separate folders: 
